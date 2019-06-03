@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\personal_git\\Demos\\dapper-advanced\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj": {}
+  },
+  "projects": {
+    "C:\\personal_git\\Demos\\dapper-advanced\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\personal_git\\Demos\\dapper-advanced\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+        "projectName": "Demo1_BasicDapper",
+        "projectPath": "C:\\personal_git\\Demos\\dapper-advanced\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+        "packagesPath": "C:\\Users\\CRJullie\\.nuget\\packages\\",
+        "outputPath": "C:\\personal_git\\Demos\\dapper-advanced\\Demo1_BasicDapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CRJullie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\personal_git\\Demos\\dapper-advanced\\HelperLibrary\\HelperLibrary.csproj": {
+                "projectPath": "C:\\personal_git\\Demos\\dapper-advanced\\HelperLibrary\\HelperLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\personal_git\\Demos\\dapper-advanced\\HelperLibrary\\HelperLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\personal_git\\Demos\\dapper-advanced\\HelperLibrary\\HelperLibrary.csproj",
+        "projectName": "HelperLibrary",
+        "projectPath": "C:\\personal_git\\Demos\\dapper-advanced\\HelperLibrary\\HelperLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

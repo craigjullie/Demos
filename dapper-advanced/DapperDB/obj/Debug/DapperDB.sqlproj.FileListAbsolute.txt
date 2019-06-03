@@ -1,0 +1,12 @@
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.dacpac
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.dll
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.dll
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+C:\personal_git\Demos\dapper-advanced\DapperDB\bin\Debug\DapperDB.dacpac
+C:\personal_git\Demos\dapper-advanced\DapperDB\bin\Debug\DapperDB.dll
+C:\personal_git\Demos\dapper-advanced\DapperDB\bin\Debug\DapperDB.pdb
+C:\personal_git\Demos\dapper-advanced\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+C:\personal_git\Demos\dapper-advanced\DapperDB\obj\Debug\DapperDB.dll
+C:\personal_git\Demos\dapper-advanced\DapperDB\obj\Debug\DapperDB.pdb
