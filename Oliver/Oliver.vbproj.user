@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\survfs01\v1\ClickOnceInstalls\Prod\Oliver\|\\10.216.15.92\rmf\Applications\ClickOnceInstalls\Prod\Oliver\|\\10.216.15.92\rmf\Applications\ClickOnce\|\\10.216.15.92\rmf\ClickOnceInstalls\Prod\Oliver\|H:\Users\Craig\Oliver\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
