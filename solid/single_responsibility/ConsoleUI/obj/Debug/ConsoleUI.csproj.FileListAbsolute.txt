@@ -1,0 +1,7 @@
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\tim\documents\visual studio 2017\Projects\SRPDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
