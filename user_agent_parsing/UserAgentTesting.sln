@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UserAgentTesting", "UserAgentTesting\UserAgentTesting.vbproj", "{B9389AA5-763C-4DCB-B1E0-03D8F07AF4AB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateJSON", "CreateJSONFile\CreateJSON.vbproj", "{76C7E6DB-32A9-44A3-B310-221F26F96F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9389AA5-763C-4DCB-B1E0-03D8F07AF4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9389AA5-763C-4DCB-B1E0-03D8F07AF4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9389AA5-763C-4DCB-B1E0-03D8F07AF4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9389AA5-763C-4DCB-B1E0-03D8F07AF4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C7E6DB-32A9-44A3-B310-221F26F96F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C7E6DB-32A9-44A3-B310-221F26F96F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C7E6DB-32A9-44A3-B310-221F26F96F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C7E6DB-32A9-44A3-B310-221F26F96F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E036EB5F-A5E4-488B-864D-857AADCAA376}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\bin\Debug\CreateJSONFile.exe.config
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\bin\Debug\CreateJSONFile.exe
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\bin\Debug\CreateJSONFile.pdb
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\bin\Debug\CreateJSONFile.xml
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.vbprojAssemblyReference.cache
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.Resources.resources
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.vbproj.GenerateResource.cache
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.vbproj.CoreCompileInputs.cache
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.exe
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.xml
+C:\Users\sbauer\source\repos\UserAgentTesting\CreateJSONFile\obj\Debug\CreateJSONFile.pdb
