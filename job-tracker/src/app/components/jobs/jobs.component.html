@@ -1,3 +1,8 @@
-<job-item *ngFor="let job of jobs" [job]="job" >
-</job-item>
+
+<mat-list>
+    <mat-list-item *ngFor="let job of jobs">
+            <job-item [job]="job" ></job-item>
+    </mat-list-item>
+</mat-list>
+
 
