@@ -9,7 +9,7 @@ import { Job } from '../../models/job';
 export class JobsComponent implements OnInit {
 
   jobs:Job[];
-
+  displayedColumns: string[] = ['id', 'title'];
 
   constructor() { }
 

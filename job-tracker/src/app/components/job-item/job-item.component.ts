@@ -8,6 +8,7 @@ import { Job } from 'src/app/models/Job';
 })
 export class JobItemComponent implements OnInit {
   @Input() job: Job;
+  
 
   constructor() { }
 

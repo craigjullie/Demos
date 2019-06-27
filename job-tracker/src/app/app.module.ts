@@ -4,6 +4,8 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule, MatCheckboxModule, MatListModule } from '@angular/material';
+import { MatTableModule } from '@angular/material/table';
+
 
 // Components
 import { AppComponent } from './app.component';
@@ -20,7 +22,7 @@ import { JobItemComponent } from './components/job-item/job-item.component';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    MatButtonModule, MatCheckboxModule, MatListModule
+    MatButtonModule, MatCheckboxModule, MatTableModule
   ],
   providers: [],
   bootstrap: [AppComponent]
