@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MatSort } from '@angular/material/sort';
 import { Job } from '../../models/job';
 
 @Component({
