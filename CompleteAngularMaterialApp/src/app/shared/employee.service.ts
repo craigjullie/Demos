@@ -13,7 +13,8 @@ export class EmployeeService {
     fullName: new FormControl('', Validators.required),
     email: new FormControl('', Validators.email),
     mobile: new FormControl('', [Validators.required, Validators.minLength(8)]),
-    city: new FormControl(''),
+    city: new FormControl('', [Validators.required, Validators.minLength(2)]
+    ),
     gender: new FormControl('1'),
     department: new FormControl(0),
     hireDate: new FormControl(''),

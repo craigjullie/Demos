@@ -25,4 +25,8 @@ export class JobListComponent implements AfterViewInit, OnInit {
     this.dataSource.paginator = this.paginator;
     this.table.dataSource = this.dataSource;
   }
+
+  getRecord(row) {
+    console.log(row);
+  }
 }
