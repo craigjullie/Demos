@@ -15,6 +15,7 @@ export class JobListComponent implements AfterViewInit, OnInit {
 
   /** Columns displayed in the table. Columns IDs can be added, removed, or reordered. */
   displayedColumns = ['id', 'name'];
+  showJob: boolean;
 
   ngOnInit() {
     this.dataSource = new JobListDataSource();
@@ -28,5 +29,6 @@ export class JobListComponent implements AfterViewInit, OnInit {
 
   getRecord(row) {
     console.log(row);
+    this.showJob = true;
   }
 }
