@@ -7,15 +7,16 @@ import { Observable, of as observableOf, merge } from 'rxjs';
 export interface JobListItem {
   name: string;
   id: number;
+  desc: string;
 }
 
 // TODO: replace this with real data from your application
 const EXAMPLE_DATA: JobListItem[] = [
-  {id: 1, name: 'Phoenix Web Validate'},
-  {id: 2, name: 'Phoenix Paper Validate'},
-  {id: 3, name: 'CIMA Nightly'},
-  {id: 4, name: 'Subaru Web Validate'},
-  {id: 5, name: 'Subaru Paper Validate'},
+  {id: 1, name: 'Job 1', desc: 'This is job one.'},
+  {id: 2, name: 'Job 2', desc: 'This is job two'},
+  {id: 3, name: 'Job 3', desc: 'This is job three'},
+  {id: 4, name: 'Job 4', desc: 'This is job four'},
+  {id: 5, name: 'Job 5', desc: 'This is job five'},
 ];
 
 /**

@@ -11,6 +11,8 @@ export class JobService {
   form: FormGroup = new FormGroup({
     $key: new FormControl(null),
     jobName: new FormControl('', Validators.required),
+    jobDescription: new FormControl('', Validators.required),
+    client: new FormControl('', Validators.required)
   });
 
   initializeFormGroup() {

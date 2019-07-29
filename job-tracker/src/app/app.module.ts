@@ -3,12 +3,12 @@ import { NgModule } from '@angular/core';
 // Modules
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatButtonModule, MatCheckboxModule, MatPaginatorModule, MatSortModule,  MatToolbarModule } from '@angular/material';
+import { MatButtonModule, MatCheckboxModule, MatPaginatorModule, MatSortModule,  MatToolbarModule, MatGridListModule } from '@angular/material';
+import { MatFormFieldModule, MatInputModule, MatSelectModule } from '@angular/material';
 import { MatTableModule } from '@angular/material/table';
 import { ReactiveFormsModule } from "@angular/forms";
 import { AppRoutingModule } from './app-routing.module';
-import { MatFormFieldModule } from '@angular/material';
-import { MatInputModule } from '@angular/material'
+
 
 // Components
 import { AppComponent } from './app.component';
@@ -33,7 +33,14 @@ import { JobComponent } from './components/job-list/job/job.component';
     MatInputModule,
     ReactiveFormsModule,
     BrowserAnimationsModule,
-    MatButtonModule, MatCheckboxModule, MatTableModule, MatPaginatorModule, MatSortModule, MatToolbarModule
+    MatButtonModule, 
+    MatCheckboxModule, 
+    MatTableModule, 
+    MatPaginatorModule, 
+    MatSortModule, 
+    MatToolbarModule,
+    MatSelectModule,
+    MatGridListModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

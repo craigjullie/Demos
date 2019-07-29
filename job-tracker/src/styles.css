@@ -10,6 +10,11 @@ div.container{
     margin: 0px 20px;
 }
 
+.button-row button{
+  margin: 5px;
+  align-self: center;
+}
+
 .fill-remaining-space {
     /* This fills the remaining space, by using flexbox. 
        Every toolbar row uses a flexbox row layout. */
